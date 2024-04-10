@@ -1,0 +1,1 @@
+//colocar el codigo de cada ejercicio en ts 
