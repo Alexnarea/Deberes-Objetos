@@ -1,6 +1,6 @@
 # Ejercicio Two Fer 
 
-## Descripción del código
+### Descripción del código
 
 - `name?: string`: Es un parámetro opcional de la función que indica el nombre de la persona a compartir. Es de tipo cadena (`string`).
 
