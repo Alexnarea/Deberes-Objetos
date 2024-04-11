@@ -1,5 +1,6 @@
-### Ejercicio Resistor Color
+# Ejercicio Resistor Color
 
+### Descripción del código
 
 -  `color: string`: Toma un parámetro **color** que es de tipo cadena (`string`). Representa el color del que se desea obtener el código numérico.
 - `switch(color)`: Evalúa el valor del parámetro **color**.
