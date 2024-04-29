@@ -13,3 +13,5 @@
 
 
 Se puede comprender como la función **colorCode** asigna códigos numéricos a los colores y como la matriz **COLORS** proporciona una lista ordenada de colores
+
+- https://youtu.be/hjhan4b_OAs
