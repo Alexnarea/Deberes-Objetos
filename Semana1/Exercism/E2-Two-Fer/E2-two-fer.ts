@@ -6,5 +6,5 @@ export function twoFer(name?: string): string {
   }
   
   // Ejemplo
-  twoFer("alex");
+  twoFer();
   

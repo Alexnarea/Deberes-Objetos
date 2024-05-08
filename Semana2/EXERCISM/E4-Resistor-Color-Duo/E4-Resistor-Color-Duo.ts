@@ -17,3 +17,5 @@ export enum ResistorValues {
     return Number (`${ResistorValues[firstColor]}${ResistorValues[secondColor]}`)
   }
   
+  decodedValue(["black","red"])
+  

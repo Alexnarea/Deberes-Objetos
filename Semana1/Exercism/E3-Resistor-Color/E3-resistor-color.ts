@@ -29,7 +29,7 @@ export const colorCode = (color: string): number => {
     "black",
     "brown",
     "red",
-    "orange",
+    "rojo",
     "yellow",
     "green",
     "blue",
