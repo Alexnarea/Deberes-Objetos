@@ -12,3 +12,5 @@
 - Si el nucleótido es 'A', se agrega 'U' al complemento de ARN.
 - En caso de que se encuentre un nucleótido diferente a los mencionados, se lanza un error indicando que la entrada de ADN es inválida.
 - Finalmente, se devuelve la cadena de ARN resultante.
+
+https://youtu.be/DRfvpBdQHPI
